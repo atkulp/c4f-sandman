@@ -16,7 +16,7 @@ Once again, out of necessity, I’m writing a small utility to help with some an
 
 Run the application and it shows up in your tray. You can either right-click the icon and take immediate actions like logging off or shutting down, or double-click the icon to show the menu options.  
   
-![Sandman.png](docs/images/780c1b24-6c7e-49ed-8489-922e6359c7a0
+![Sandman.png](docs/images/780c1b24-6c7e-49ed-8489-922e6359c7a0.png
 "Sandman.png")  
   
 The application has several modes. You can either shutdown based on time, or based on a window. The window conditions include watching for a window with a given title to appear or disappear, or watching a window for the title to contain or not contain a certain string. This can be used to standby after a file copy completes, or a browser download, or a progress dialog from a DVD burner changes from "Burning" to "Complete."  Lots of options\!  
